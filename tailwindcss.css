@@ -1,0 +1,7 @@
+.a {
+  width: 80%; /* ou toute autre largeur souhaitée */
+  margin: 0 auto; /* centre la section horizontalement */
+  text-align: center; /* centre le texte à l'intérieur */
+  display: flex;
+  justify-content: center;
+}
